@@ -254,7 +254,7 @@ p::first-letter {
 }
 
 /* Estilo del pre dentro de .box2 (si lo usas) */
-.box2 pre {
+.box2 pre, .box5 pre {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: clamp(0.95rem, 1.8vw, 1.05rem);
     line-height: 1.8;

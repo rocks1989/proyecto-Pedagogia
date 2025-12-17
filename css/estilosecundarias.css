@@ -91,6 +91,16 @@ nav a:hover {
     align-items: center;
 }
 
+.nav_secundaria h1 {
+    color: var(--color-text-light);
+    font-family: 'Sekuya', system-ui, sans-serif;
+    font-size: clamp(2rem, 6vw, 4rem);
+    margin: 0;
+    text-align: center;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+
 
 /* ========== HEADER CON IMAGEN ========== */
 header {
